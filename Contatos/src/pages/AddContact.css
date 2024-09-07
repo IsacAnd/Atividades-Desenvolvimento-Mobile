@@ -1,0 +1,12 @@
+.contact-form-grid {
+    padding-top: 20px; /* Distancia da borda superior */
+  }
+  
+  .contact-form-grid ion-row {
+    margin-bottom: 16px; /* Espaçamento entre os inputs */
+  }
+  
+  .contact-form-grid ion-col {
+    max-width: 60%; /* Diminui o comprimento dos inputs */
+  }
+  
